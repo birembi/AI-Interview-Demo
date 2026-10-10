@@ -1,6 +1,6 @@
 {
-  "name": "",
-  "description": "",
+  "name": "MülakatAI - Kişiselleştirilmiş AI Mülakat Koçu",
+  "description": "Mülakatçının unvanına, adayın teknik becerilerine, katıldığı etkinliklere ve öğrenci/mezun durumuna özel canlı sesli/yazılı simülasyon ve soru havuzu.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
